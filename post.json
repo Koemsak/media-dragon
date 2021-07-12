@@ -1,1 +1,9 @@
-[{"id":1,"author":"Koemsak","date":"Monday, July 12 2021, 7:52","description":"Morning !!!","image":""}]
+[
+    {
+        "id": 1,
+        "author": "Koemsak",
+        "date": "Monday, July 12 2021, 7:52",
+        "description": "Morning !!!",
+        "image": ""
+    }
+]
